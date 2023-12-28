@@ -1,0 +1,9 @@
+ProductId: B000LQORDE
+UserId: ALK1W410A1W6L
+ProfileName: Matthew R. Jacks
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 2
+Score: 5
+Time: 1319932800
+Summary: Yummy Fast
+Text: These are very good noodles - better than the ones you find at the supermarket.<br /><br />The flavor is very real and these are pretty spicy.. not crazy hot but just right.<br /><br />OK OK it's not Momofuku but for a quick 5 minute lunch on the job.. it'll work!<br /><br />mj

@@ -1,0 +1,9 @@
+ProductId: B000LQORDE
+UserId: A19W47CXJJP1MI
+ProfileName: Amazonian Consumer
+HelpfulnessNumerator: 2
+HelpfulnessDenominator: 5
+Score: 5
+Time: 1235088000
+Summary: This spicy noodle cures my cold, upset stomach, and headache every time!
+Text: I love this noodle and have it once or twice a week. The amazing thing is that when I don't feel well because of a cold, a hot bowl of this noodle will cure my upset stomach, headache, and running nose! This may not work for you, but you should definitely try it.

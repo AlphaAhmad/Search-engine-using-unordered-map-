@@ -1,0 +1,9 @@
+ProductId: B001GVISJM
+UserId: A3FONPR03H3PJS
+ProfileName: Deborah S. Linzer "Cat Lady"
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 0
+Score: 5
+Time: 1288310400
+Summary: Twizzlers - Strawberry
+Text: Product received is as advertised.<br /><br /><a href="http://www.amazon.com/gp/product/B001GVISJM">Twizzlers, Strawberry, 16-Ounce Bags (Pack of 6)</a>

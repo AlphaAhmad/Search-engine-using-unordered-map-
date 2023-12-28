@@ -1,0 +1,9 @@
+ProductId: B000LQORDE
+UserId: A29WRXXYKLFTG
+ProfileName: zhenzhen
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 2
+Score: 5
+Time: 1320537600
+Summary: I like it
+Text: The taste is great! especially when you cook it with some vegetable and egg.I like it very much, though it's more expensive than the other noodles

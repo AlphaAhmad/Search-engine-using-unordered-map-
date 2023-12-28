@@ -1,0 +1,9 @@
+ProductId: B000LQORDE
+UserId: A2LKCOIVLZWDG5
+ProfileName: TopQuark
+HelpfulnessNumerator: 0
+HelpfulnessDenominator: 2
+Score: 5
+Time: 1320537600
+Summary: The best instant noodle!
+Text: This is the best instant noodle I have tried.  Very spicy!  Yes, I like it very spicy.  You can always dilute it with more water to reduce the strength and make it less salty too.
